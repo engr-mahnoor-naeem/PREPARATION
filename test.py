@@ -1,3 +1,5 @@
+INTERVIEW - Intellixcore Company.py
+
 # Q1 You are given two sorted arrays (in ascending order) as input. Write a function that merges these two arrays and returns a new array that contains all the elements from both arrays, sorted in ascending order.
 # You cannot use any built-in sorting functions. You must leverage the fact that the two arrays are already sorted to achieve an efficient merge.
 # # Example 1
